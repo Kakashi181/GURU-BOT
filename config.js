@@ -64,7 +64,7 @@ global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg'
 global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 
 
-global.wait = '*🐸 _Charging..._*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*🐸 _Charging..._*\n*😀😗🤤🥵🥹🫵*'
 global.rwait = '☠️'
 global.dmoji = '🤭'
 global.done = '✅'
